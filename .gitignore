@@ -1,18 +1,3 @@
 # Entorno virtual
 .venv/
 venv/
-
-# Archivos de cache de Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.so
-
-# Archivos temporales
-*.log
-*.tmp
-*.swp
-
-# Archivos de configuración de IDE
-.vscode/
